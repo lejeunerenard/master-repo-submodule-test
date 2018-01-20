@@ -7,10 +7,10 @@ slave repositories.
 
 ## Branches
 
-[`day-1`](./day-1)
-[`day-2`](./day-2)
-[`day-3`](./day-3)
-[`day-4`](./day-4)
+- [`day-1`](https://github.com/lejeunerenard/master-repo-test-slave1/tree/4ccb5389070c8328d38e2159c6232e938f084e8e)
+- [`day-2`](https://github.com/lejeunerenard/master-repo-test-slave2/tree/52987d0b8dfba831881d873c29d88a0a257f2853)
+- [`day-3`](https://github.com/lejeunerenard/master-repo-test-slave2/tree/7a32194e151cad685b3ddc729674444db32a63b9)
+- [`day-4`](https://github.com/lejeunerenard/master-repo-test-slave1/tree/2bcb4ba30beec07193f6d97bdec61a01781f5259)
 
 ## Notes
 
