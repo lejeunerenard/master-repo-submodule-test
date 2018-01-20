@@ -1,0 +1,16 @@
+[submodule "day-1"]
+	path = day-1
+	url = git@github.com:lejeunerenard/master-repo-test-slave1.git
+	branch = day-1
+[submodule "day-2"]
+	path = day-2
+	url = git@github.com:lejeunerenard/master-repo-test-slave2.git
+	branch = day-2
+[submodule "day-3"]
+	path = day-3
+	url = git@github.com:lejeunerenard/master-repo-test-slave2.git
+	branch = day-3
+[submodule "day-4"]
+	path = day-4
+	url = git@github.com:lejeunerenard/master-repo-test-slave1.git
+	branch = day-4
